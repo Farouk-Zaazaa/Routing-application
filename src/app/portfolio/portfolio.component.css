@@ -1,0 +1,44 @@
+.main {
+    min-height: 80vh;
+    padding-top: 100px;
+}
+
+.head h2 {
+    color: #2C3E50;
+    font-weight: 700;
+}
+
+.main-head i{
+    color: #2C3E50;
+}
+
+.line {
+    margin-top: 6px;
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+.item {
+    position: relative;
+    cursor: pointer;
+}
+
+.layer {
+    position: absolute;
+    top: 0;
+    right: 10;
+    width: 94.5%;
+    height: 100%;
+    background-color: #29b198d6;
+    opacity: 0;
+    transition: all 0.4s;
+}
+
+.layer i {
+    font-size: 80px;
+}
+
+.item:hover .layer{
+    opacity: 1;
+}

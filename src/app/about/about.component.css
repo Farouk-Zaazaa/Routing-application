@@ -1,0 +1,16 @@
+.main {
+    background-color: #1ABC9C;
+    padding-top: 180px;
+    min-height: 80vh;
+}
+
+.line {
+    margin-top: 6px;
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+
+.left {
+    padding-left: 60px;
+}

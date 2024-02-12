@@ -1,0 +1,28 @@
+.main {
+    min-height: 80vh;
+    padding-top: 100px;
+}
+
+.head h2 {
+    color: #2C3E50;
+    font-weight: 700;
+}
+
+.main-head i{
+    color: #2C3E50;
+}
+
+.line {
+    margin-top: 6px;
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+.btn {
+    background-color: #1ABC9C;
+}
+
+label {
+    color: #1abc9c;
+}

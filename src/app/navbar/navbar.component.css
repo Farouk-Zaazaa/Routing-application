@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #2C3E50;
+    z-index: 100;
+}
+
+.container-fluid {
+    padding-inline: 70px;
+}
+
+.main-color {
+    background-color: #1ABC9C;
+}
+
+.navbar-brand {
+    font-size: 32PX;
+    font-weight: 700;
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: 700;
+}
